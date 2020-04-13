@@ -2,4 +2,4 @@
 SSH Guide 
 
 
-This is the SSH Guide I use to practice
+This is the SSH cheatsheet I use for my guide. 
